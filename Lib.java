@@ -11,9 +11,13 @@ public class Lib {
 
     public void metodoAlumno2(){
         System.out.println("metodo 2");
+	System.out.println("modificado por RamonNC"); //RamonNC
     }
 
     public void metodoComunitario(){
+	// Comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
+	// modificaciones alumno 2 (RamonNC)
+	System.out.println("RamonNC inserta esta sentencia");
     }
 }
